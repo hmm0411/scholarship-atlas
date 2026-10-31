@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "oxford-optiver",
+      "name": "Optiver Foundation Scholarships",
+      "region": "UK",
+      "organization": "Oxford",
+      "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/optiver-foundation-scholarships",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "oxford-scholarships",
+      "name": "Oxford Graduate Scholarships",
+      "region": "UK",
+      "organization": "Oxford",
+      "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/scholarships",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "oxford-acs",
+      "name": "Oxford MSc Advanced Computer Science",
+      "region": "UK",
+      "organization": "Oxford",
+      "url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "gates-cambridge",
+      "name": "Gates Cambridge",
+      "region": "UK",
+      "organization": "Cambridge",
+      "url": "https://www.gatescambridge.org/apply/",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "id": "british-council-women",
+      "name": "British Council Women in STEM",
+      "region": "UK",
+      "organization": "British Council",
+      "url": "https://www.britishcouncil.org/study-work-abroad/in-uk/scholarship-women-stem",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "vingroup",
+      "name": "Vingroup Science and Technology Scholarship",
+      "region": "Vietnam",
+      "organization": "Vingroup",
+      "url": "https://scholarships.vinuni.edu.vn/",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "vinuni-admission",
+      "name": "VinUni Graduate Admissions / GRE",
+      "region": "Vietnam",
+      "organization": "VinUniversity",
+      "url": "https://admissions.vinuni.edu.vn/",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "ntu-scholarships",
+      "name": "NTU Graduate Scholarships / Vingroup",
+      "region": "Singapore",
+      "organization": "NTU",
+      "url": "https://www.ntu.edu.sg/graduate-college/admissions/scholarships",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "nus-research",
+      "name": "NUS Research Scholarship",
+      "region": "Singapore",
+      "organization": "NUS",
+      "url": "https://nusgs.nus.edu.sg/scholarships/nus-research-scholarship",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "nus-scholarships",
+      "name": "NUS Graduate Scholarships",
+      "region": "Singapore",
+      "organization": "NUS",
+      "url": "https://nusgs.nus.edu.sg/scholarships/",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "id": "smu-graduate",
+      "name": "SMU Graduate Research Admissions",
+      "region": "Singapore",
+      "organization": "SMU",
+      "url": "https://graduatestudies.smu.edu.sg/",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "id": "aisg",
+      "name": "AI Singapore",
+      "region": "Singapore",
+      "organization": "AI Singapore",
+      "url": "https://aisingapore.org/",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "id": "astar",
+      "name": "A*STAR Graduate Academy",
+      "region": "Singapore",
+      "organization": "A*STAR",
+      "url": "https://www.a-star.edu.sg/Scholarships",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "id": "hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme",
+      "region": "Hong Kong",
+      "organization": "RGC",
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "hkust-admissions",
+      "name": "HKUST Postgraduate Admissions",
+      "region": "Hong Kong",
+      "organization": "HKUST",
+      "url": "https://fytgs.hkust.edu.hk/admissions",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "id": "seu-csc",
+      "name": "CSC SEU 2027",
+      "region": "China",
+      "organization": "Southeast University",
+      "url": "https://cis.seu.edu.cn/hwenglish/2026/1021/c14043a586986/page.htm",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "seu-international",
+      "name": "SEU International Admissions",
+      "region": "China",
+      "organization": "Southeast University",
+      "url": "https://cis.seu.edu.cn/hwenglish/13917/list.htm",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "campuschina",
+      "name": "Chinese Government Scholarship",
+      "region": "China",
+      "organization": "CSC",
+      "url": "https://www.campuschina.org/",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "id": "tsinghua",
+      "name": "Tsinghua Graduate Admissions",
+      "region": "China",
+      "organization": "Tsinghua",
+      "url": "https://yz.tsinghua.edu.cn/en/",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "id": "zju",
+      "name": "Zhejiang University International",
+      "region": "China",
+      "organization": "Zhejiang University",
+      "url": "https://iczu.zju.edu.cn/",
+      "priority": "low",
+      "enabled": true
+    },
+    {
+      "id": "gks",
+      "name": "Global Korea Scholarship",
+      "region": "South Korea",
+      "organization": "Study in Korea",
+      "url": "https://www.studyinkorea.go.kr/",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "kaist",
+      "name": "KAIST International Graduate Admissions",
+      "region": "South Korea",
+      "organization": "KAIST",
+      "url": "https://admission.kaist.ac.kr/intl-graduate/",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "postech",
+      "name": "POSTECH Graduate Admissions",
+      "region": "South Korea",
+      "organization": "POSTECH",
+      "url": "https://graduate.postech.ac.kr/",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "id": "unist",
+      "name": "UNIST Admissions",
+      "region": "South Korea",
+      "organization": "UNIST",
+      "url": "https://admu-intl.unist.ac.kr/",
+      "priority": "low",
+      "enabled": true
+    },
+    {
+      "id": "mext",
+      "name": "MEXT / Study in Japan",
+      "region": "Japan",
+      "organization": "Study in Japan",
+      "url": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "id": "jasso",
+      "name": "JASSO Scholarship Information",
+      "region": "Japan",
+      "organization": "JASSO",
+      "url": "https://www.jasso.go.jp/en/ryugaku/scholarship_j/index.html",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "id": "erasmus",
+      "name": "Erasmus Mundus Joint Masters",
+      "region": "Europe",
+      "organization": "European Commission",
+      "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "id": "daad",
+      "name": "DAAD Scholarship Database",
+      "region": "Germany",
+      "organization": "DAAD",
+      "url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/",
+      "priority": "medium",
+      "enabled": true
+    }
+  ]
+}
