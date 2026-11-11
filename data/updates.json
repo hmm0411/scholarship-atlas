@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T09:46:41+00:00",
+  "generated_at": "2026-11-11T09:21:53+00:00",
   "policy": "Read-only signals; manual verification required for dates and eligibility.",
   "summary": {
     "monitored": 28,
-    "ok": 18,
-    "changed": 3,
+    "ok": 17,
+    "changed": 4,
     "errors": 7
   },
   "sources": [
@@ -16,7 +16,7 @@
       "organization": "Oxford",
       "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/optiver-foundation-scholarships",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "error",
       "changed": false,
       "error": "HTTP Error 403: Forbidden",
@@ -29,7 +29,7 @@
       "organization": "Oxford",
       "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/scholarships",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "error",
       "changed": false,
       "error": "HTTP Error 403: Forbidden",
@@ -42,7 +42,7 @@
       "organization": "Oxford",
       "url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "error",
       "changed": false,
       "error": "HTTP Error 403: Forbidden",
@@ -55,9 +55,9 @@
       "organization": "Cambridge",
       "url": "https://www.gatescambridge.org/apply/",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
-      "status": "ok",
-      "changed": false,
+      "checked_at": "2026-11-11T09:21:53+00:00",
+      "status": "changed",
+      "changed": true,
       "excerpts": [
         "International Scholarship at The University of Cambridge Skip to main content Programme The scholarship The experience The University Apply Eligibility Criteria Time",
         "tional Scholarship at The University of Cambridge Skip to main content Programme The scholarship The experience The University Apply Eligibility Criteria Timeline How to apply How we select Frequently Asked Questions Our Scholars Direct",
@@ -65,7 +65,7 @@
         "search term Search An international scholar community Watch our film Gates Cambridge Scholarships Gates Cambridge is an international scholarship programme at the University of Cambridge for outstanding postgraduate students who share a",
         "nity Watch our film Gates Cambridge Scholarships Gates Cambridge is an international scholarship programme at the University of Cambridge for outstanding postgraduate students who share a potential for social leadership and a desire to"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "british-council-women",
@@ -74,7 +74,7 @@
       "organization": "British Council",
       "url": "https://www.britishcouncil.org/study-work-abroad/in-uk/scholarship-women-stem",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -84,7 +84,7 @@
         "tes to the underrepresentation of women in STEM. The British Council's Women in STEM scholarship programme addresses this by providing funding for one-year master's degree programmes at top ranking universities and research institutions",
         "he British Council's Women in STEM scholarship programme addresses this by providing funding for one-year master's degree programmes at top ranking universities and research institutions within the UK, for women from socioeconomical"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "vingroup",
@@ -93,7 +93,7 @@
       "organization": "Vingroup",
       "url": "https://scholarships.vinuni.edu.vn/",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -103,7 +103,7 @@
         "ip Programs – Vingroup Scholarship Programs Home About Scholarship Programs Vingroup Scholarship Program for Doctoral Degrees Vingroup Young Talent Scholarship at SMU Vingroup Graduate Scholarship at NTU Our Collaborators Our Scholars N",
         "hip Programs Vingroup Scholarship Program for Doctoral Degrees Vingroup Young Talent Scholarship at SMU Vingroup Graduate Scholarship at NTU Our Collaborators Our Scholars News & Events News Events Resources List of targeted universitie"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "vinuni-admission",
@@ -112,7 +112,7 @@
       "organization": "VinUniversity",
       "url": "https://admissions.vinuni.edu.vn/",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -122,7 +122,7 @@
         "rain outstanding talents; therefore, the university is committed to provide generous scholarships and financial aid to deserving talented students. We are not a university of the privileged, but indeed a university of talents. Welcome t",
         "tegrated Bachelor's-Master's programs are also available with opportunities for full scholarships from Vingroup Corporation. EXCLUSIVE INTERNSHIP PROGRAM Gaining hands-on experience from year one through exclusive internships at leading"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "ntu-scholarships",
@@ -131,7 +131,7 @@
       "organization": "NTU",
       "url": "https://www.ntu.edu.sg/graduate-college/admissions/scholarships",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -141,7 +141,7 @@
         "rogramme Level: Masters (Research) | PhD Offered by NTU Learn More VinGroup Graduate Scholarship Nationality: Vietnamese Students Programme Level: Masters (Research) | PhD Offered by Vingroup Learn More Hermes-Epitek Innovation Scholars",
         "el: Masters (Research) | PhD Offered by Vingroup Learn More Hermes-Epitek Innovation Scholarship Nationality: Singapore Citizen Programme Level: Masters (Research) Offered by Hermes-Epitek Corporation Ltd Learn More Provost Graduate Awa"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "nus-research",
@@ -150,7 +150,7 @@
       "organization": "NUS",
       "url": "https://nusgs.nus.edu.sg/scholarships/nus-research-scholarship",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -160,7 +160,7 @@
         "School Deanery Team Members Contact Us Outstanding Graduate Mentor Award Browse all scholarships NUS Research Scholarship The NUS Research Scholarship (“Scholarship”) is awarded to outstanding graduate students for research leading to",
         "rs Contact Us Outstanding Graduate Mentor Award Browse all scholarships NUS Research Scholarship The NUS Research Scholarship (“Scholarship”) is awarded to outstanding graduate students for research leading to a higher degree at the Uni"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "nus-scholarships",
@@ -169,7 +169,7 @@
       "organization": "NUS",
       "url": "https://nusgs.nus.edu.sg/scholarships/",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -179,7 +179,7 @@
         "Scholarships Programmes Admissions learnmore Important Announcement on Postgraduate Admissions at NUS Overview Fees Financial Aid Accommodations Discover Singapore Explore NUS learnmore NUS Graduate School's YouTube Channel Experienc",
         "ance mode Page is under maintenance, sorry for the inconvenience caused!​ Browse Our Scholarships Financial support for graduate study and research at NUS — from tuition coverage to monthly stipends, offered by the University and its pa"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "smu-graduate",
@@ -188,15 +188,15 @@
       "organization": "SMU",
       "url": "https://graduatestudies.smu.edu.sg/",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
-      "status": "changed",
-      "changed": true,
+      "checked_at": "2026-11-11T09:21:53+00:00",
+      "status": "ok",
+      "changed": false,
       "excerpts": [
         "Home | College of Graduate Research Studies Applications are open! Apply for our Academic Research PhD , Professional Doctorate and Master by Research Programmes! Apply Here! Paper Submissions Are",
         "sian urbanisms. They offer rigorous training in research methodologies and practical applications, emphasising interdisciplinary approaches and real-world impact. Find out more! Professional Doctorate Programmes SMU's Professional Doctor",
         "Professional Doctorate Programmes combine advanced academic research with practical application, designed for working professionals. They offer specialised training in fields like business, law, and information systems, focusing on rea"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "aisg",
@@ -205,7 +205,7 @@
       "organization": "AI Singapore",
       "url": "https://aisingapore.org/",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -215,7 +215,7 @@
         "terview with Researchers and Industry Partners More Videos AI Research Exploring and funding groundbreaking AI Research To seed high-quality research efforts aimed at developing fundamental AI novel techniques, algorithms and adjace",
         "AP, LADP AIxTech News & Activities Events & Workshops Educational Resources Industry Applications Other skills development programmes e.g. LearnAI Join Mailing List Name Email * Email Submit By submitting this form, you agree to receive"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "astar",
@@ -224,7 +224,7 @@
       "organization": "A*STAR",
       "url": "https://www.a-star.edu.sg/Scholarships",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "error",
       "changed": false,
       "error": "Insufficient readable text; verify the page manually",
@@ -237,7 +237,7 @@
       "organization": "RGC",
       "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -247,7 +247,7 @@
         "h awardee for a period up to three years. 400 PhD Fellowships will be awarded in the 2027/28 academic year*. For awardees who need more than three years to complete the PhD degree, additional support may be provided by the chosen",
         "ng Kong normally start their academic year in September. Selection Panel Shortlisted applications, subject to their areas of studies, will be reviewed by one of the following two Selection Panels comprising experts in the relevant board"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "hkust-admissions",
@@ -256,7 +256,7 @@
       "organization": "HKUST",
       "url": "https://fytgs.hkust.edu.hk/admissions",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "error",
       "changed": false,
       "error": "Insufficient readable text; verify the page manually",
@@ -269,7 +269,7 @@
       "organization": "Southeast University",
       "url": "https://cis.seu.edu.cn/hwenglish/2026/1021/c14043a586986/page.htm",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -279,7 +279,7 @@
         "About SEU Brief Introduction School & Departments Location SEU Campus Video About Us Admission General Information Degree Programs Non-degree Programs Scholarships Expenses & Bank Information Download Online Application Student Servic",
         "pus Video About Us Admission General Information Degree Programs Non-degree Programs Scholarships Expenses & Bank Information Download Online Application Student Services Enrollment Immigration Affairs Accomodation Fees Scholarships Hea"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "seu-international",
@@ -288,9 +288,9 @@
       "organization": "Southeast University",
       "url": "https://cis.seu.edu.cn/hwenglish/13917/list.htm",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
-      "status": "ok",
-      "changed": false,
+      "checked_at": "2026-11-11T09:21:53+00:00",
+      "status": "changed",
+      "changed": true,
       "excerpts": [
         "Admission 中文版 Home About SEU Brief Introduction School & Departments Location SEU Campus Video About Us Admission General Information Degree Programs",
         "About SEU Brief Introduction School & Departments Location SEU Campus Video About Us Admission General Information Degree Programs Non-degree Programs Scholarships Expenses & Bank Information Download Online Application Student Servic",
@@ -298,7 +298,7 @@
         "rograms Non-degree Programs Scholarships Expenses & Bank Information Download Online Application Student Services Enrollment Immigration Affairs Accomodation Fees Scholarships Healthcare Daily Management Campus Guidelines Life Tips Stud",
         "Online Application Student Services Enrollment Immigration Affairs Accomodation Fees Scholarships Healthcare Daily Management Campus Guidelines Life Tips Students Activities Job & Internship Notices Downloads Academics International und"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "campuschina",
@@ -307,10 +307,10 @@
       "organization": "CSC",
       "url": "https://www.campuschina.org/",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "error",
       "changed": false,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "error": "HTTP Error 412: Precondition Failed",
       "last_success": null
     },
     {
@@ -320,7 +320,7 @@
       "organization": "Tsinghua",
       "url": "https://yz.tsinghua.edu.cn/en/",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -330,7 +330,7 @@
         "term Research & Study Summer School Admissions How to Apply Evaluation and Admission Application Portal Frequently Asked Questions Download Costs Application Fee Tuition Fees Miscellaneous Expenses Financial Aid Financial Aid System Sch",
         "valuation and Admission Application Portal Frequently Asked Questions Download Costs Application Fee Tuition Fees Miscellaneous Expenses Financial Aid Financial Aid System Scholarship Application Frequently Asked Questions Contact Campu"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "zju",
@@ -339,13 +339,13 @@
       "organization": "Zhejiang University",
       "url": "https://iczu.zju.edu.cn/",
       "priority": "low",
-      "checked_at": "2026-11-10T09:46:41+00:00",
-      "status": "ok",
-      "changed": false,
+      "checked_at": "2026-11-11T09:21:53+00:00",
+      "status": "changed",
+      "changed": true,
       "excerpts": [
-        "0周年主题宣讲 2026-11-04 通知公告 查看更多 05 2026-11 关于公布浙江大学第四批国际学生招生宣传讲师团成员名单的通知 03 2026-11 浙江大学2027年“国际学生招生宣传大使” 招募通知 30 2026-09 关于2026年度浙江省政府奖学金评选的通知 30 2026-09 关于开展2026年“浙里知华”中外学生国情教育特色项目中期交流的通知 30 2026-09 关于开展浙江大学2025-2026学年国际学生荣誉称号评选的通"
+        "季运动会开幕式 2026-11-05 通知公告 查看更多 05 2026-11 关于公布浙江大学第四批国际学生招生宣传讲师团成员名单的通知 03 2026-11 浙江大学2027年“国际学生招生宣传大使” 招募通知 30 2026-09 关于2026年度浙江省政府奖学金评选的通知 30 2026-09 关于开展2026年“浙里知华”中外学生国情教育特色项目中期交流的通知 30 2026-09 关于开展浙江大学2025-2026学年国际学生荣誉称号评选的通"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "gks",
@@ -354,7 +354,7 @@
       "organization": "Study in Korea",
       "url": "https://www.studyinkorea.go.kr/",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "changed",
       "changed": true,
       "excerpts": [
@@ -364,7 +364,7 @@
         "medium of instruction, and more. Search for Academic Programs Scholarships Discover scholarships offered by the Korean government (GKS), universities, corporations, and foundations. Search for Scholarships Careers Choose a career to fi",
         "the Korean government (GKS), universities, corporations, and foundations. Search for Scholarships Careers Choose a career to find related universities and view detailed career information. Search by Careers Plan your studies with Korea"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "kaist",
@@ -373,14 +373,14 @@
       "organization": "KAIST",
       "url": "https://admission.kaist.ac.kr/intl-graduate/",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
-      "status": "changed",
-      "changed": true,
+      "checked_at": "2026-11-11T09:21:53+00:00",
+      "status": "ok",
+      "changed": false,
       "excerpts": [
         "(23)KAIST admissions Notice Join Our Events VIEW ALL Meet the KAIST Community VIEW ALL Popular Graduate Destinations Cost of Attendance Why KAIST Admitted Stud",
         "ount Manage Your Account Update your information and keep track of already completed applications. Forgot Your Log In Password"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "postech",
@@ -389,7 +389,7 @@
       "organization": "POSTECH",
       "url": "https://graduate.postech.ac.kr/",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "error",
       "changed": false,
       "error": "<urlopen error [Errno -2] Name or service not known>",
@@ -402,7 +402,7 @@
       "organization": "UNIST",
       "url": "https://admu-intl.unist.ac.kr/",
       "priority": "low",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -412,7 +412,7 @@
         "t 수시 2026학년도 학부 수시모집 최종 합격자 발표 자세히 보기 수시 2026학년도 학부 수시모집 탐구우수전형 1단계 합격자 발표 자세히 보기 정시 2027학년도 대학입학 전형 시행계획 안내 자세히 보기 수시 2026학년도 학부 수시모집 최종 합격자 발표2 자세히 보기 수시 2026학년도 학부 수시모집 탐구우수전형 1단계 합격자 발표2 자세히 보기 정시 2027학년도 대학입학 전형 시행계획 안내2 자세히",
         "수시 2026학년도 학부 수시모집 최종 합격자 발표2 자세히 보기 수시 2026학년도 학부 수시모집 탐구우수전형 1단계 합격자 발표2 자세히 보기 정시 2027학년도 대학입학 전형 시행계획 안내2 자세히 보기 Admission Guideline read more Global Korea Scholarship (GKS) read more Academic Program read more Scholarships r"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "mext",
@@ -421,7 +421,7 @@
       "organization": "Study in Japan",
       "url": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
       "priority": "high",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -431,7 +431,7 @@
         "Scholarships HOME Planning to Study in Japan Scholarships Japanese Government (MEXT) Scholarship Table of contents Types Types and Their Status Eligibility Examinations Required for Embassy Recommendation Application Process 1. Embassy",
         "apanese Government (MEXT) Scholarship Table of contents Types Types and Their Status Eligibility Examinations Required for Embassy Recommendation Application Process 1. Embassy recommendation 2. University recommendation Japanese G"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "jasso",
@@ -440,7 +440,7 @@
       "organization": "JASSO",
       "url": "https://www.jasso.go.jp/en/ryugaku/scholarship_j/index.html",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -449,7 +449,7 @@
         "ship for Privately-Financed International Students Student Exchange Support Program (Scholarship for Study in Japan under Agreement) Japanese Government （MEXT） Scholarship Related Sites / Tools Japan Student Services Organization SNS Of",
         "Program (Scholarship for Study in Japan under Agreement) Japanese Government （MEXT） Scholarship Related Sites / Tools Japan Student Services Organization SNS Official Account X (Formerly Twitter) We will provide the latest information"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "erasmus",
@@ -458,7 +458,7 @@
       "organization": "European Commission",
       "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -468,7 +468,7 @@
         "able Masters may also offer full scholarships to the best-ranked students worldwide. Scholarships cover your participation costs and contribute to travel visa a living allowance Masters duration 1 to 2 academic years (60, 90 or 120 ECTS",
         "Mundus Masters is added to the list each year. In most cases, you should submit your application between October and January for courses starting the following academic year. Each master's website has all the details about the course of"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     },
     {
       "id": "daad",
@@ -477,7 +477,7 @@
       "organization": "DAAD",
       "url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/",
       "priority": "medium",
-      "checked_at": "2026-11-10T09:46:41+00:00",
+      "checked_at": "2026-11-11T09:21:53+00:00",
       "status": "ok",
       "changed": false,
       "excerpts": [
@@ -487,10 +487,42 @@
         "making it the world's largest funding organisation of its kind. Learn more about our scholarship options. DAAD scholarships are aimed primarily at graduates, doctoral students and postdocs and are awarded for study and research visits t",
         "est funding organisation of its kind. Learn more about our scholarship options. DAAD scholarships are aimed primarily at graduates, doctoral students and postdocs and are awarded for study and research visits to universities and non-uni"
       ],
-      "last_success": "2026-11-10T09:46:41+00:00"
+      "last_success": "2026-11-11T09:21:53+00:00"
     }
   ],
   "changes": [
+    {
+      "id": "53b4738c2fbdd08f",
+      "name": "Gates Cambridge",
+      "url": "https://www.gatescambridge.org/apply/",
+      "kind": "Phát hiện thay đổi trên nguồn",
+      "checked_at": "2026-11-11T09:21:53+00:00",
+      "summary": "Nguồn chính thức có thay đổi văn bản. Cần mở trang để tự xác minh deadline, học phí, điều kiện và kỳ tuyển trước khi cập nhật hồ sơ."
+    },
+    {
+      "id": "009d37ebb922a88c",
+      "name": "SEU International Admissions",
+      "url": "https://cis.seu.edu.cn/hwenglish/13917/list.htm",
+      "kind": "Phát hiện thay đổi trên nguồn",
+      "checked_at": "2026-11-11T09:21:53+00:00",
+      "summary": "Nguồn chính thức có thay đổi văn bản. Cần mở trang để tự xác minh deadline, học phí, điều kiện và kỳ tuyển trước khi cập nhật hồ sơ."
+    },
+    {
+      "id": "187a08a1a270f488",
+      "name": "Zhejiang University International",
+      "url": "https://iczu.zju.edu.cn/",
+      "kind": "Phát hiện thay đổi trên nguồn",
+      "checked_at": "2026-11-11T09:21:53+00:00",
+      "summary": "Nguồn chính thức có thay đổi văn bản. Cần mở trang để tự xác minh deadline, học phí, điều kiện và kỳ tuyển trước khi cập nhật hồ sơ."
+    },
+    {
+      "id": "5ee81f57c5eecf19",
+      "name": "Global Korea Scholarship",
+      "url": "https://www.studyinkorea.go.kr/",
+      "kind": "Phát hiện thay đổi trên nguồn",
+      "checked_at": "2026-11-11T09:21:53+00:00",
+      "summary": "Nguồn chính thức có thay đổi văn bản. Cần mở trang để tự xác minh deadline, học phí, điều kiện và kỳ tuyển trước khi cập nhật hồ sơ."
+    },
     {
       "id": "7b4e4e59bacafffd",
       "name": "SMU Graduate Research Admissions",
