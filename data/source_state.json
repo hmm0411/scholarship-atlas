@@ -3,19 +3,19 @@
     "hash": "26a82967c23bb7b50c2bd389fd4e75ac9ed8d2b110a605adbc062e74a17207b1",
     "name": "Gates Cambridge",
     "url": "https://www.gatescambridge.org/apply/",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "vingroup": {
     "hash": "c2a373228a9535ff89fe474884dd6f2f36cc256ff0effe0d6261dee4d69bb106",
     "name": "Vingroup Science and Technology Scholarship",
     "url": "https://scholarships.vinuni.edu.vn/",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "vinuni-admission": {
     "hash": "734c391980d10daa3b94d0818cfbcfa3e903840d23d8339d1e4c2546d66a0562",
     "name": "VinUni Graduate Admissions / GRE",
     "url": "https://admissions.vinuni.edu.vn/",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "ntu-scholarships": {
     "hash": "a1ba55068b0db8b957617563fde7dca9b49659ae10daed8804363c425f0cb589",
@@ -45,90 +45,90 @@
     "hash": "f7e58194759133e442796e05f1fad4abeffada8070020b9068884d5380a957c5",
     "name": "AI Singapore",
     "url": "https://aisingapore.org/",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "hkpfs": {
     "hash": "3389adc51863932d001f267807cbf9c12df3d6f665c787cbbd3c1de2f0a706de",
     "name": "Hong Kong PhD Fellowship Scheme",
     "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "seu-csc": {
     "hash": "2fa31ad0d39ee038cb1da63de871aa3df77381115781a485e33fe4424eed71c0",
     "name": "CSC SEU 2027",
     "url": "https://cis.seu.edu.cn/hwenglish/2026/1021/c14043a586986/page.htm",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "seu-international": {
     "hash": "f057d32348c66ceda107fc044349adabd64326a9c9586651b190cada421ea335",
     "name": "SEU International Admissions",
     "url": "https://cis.seu.edu.cn/hwenglish/13917/list.htm",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "tsinghua": {
     "hash": "edff0a75df9996ab28a86696372a201934e7ca9c860961629d4227cba87f6f2d",
     "name": "Tsinghua Graduate Admissions",
     "url": "https://yz.tsinghua.edu.cn/en/",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "zju": {
-    "hash": "553caec38ffbb097e16733b9b379012a5de57963f6d83b3a3341df41724d1b3f",
+    "hash": "495b4337c0ce475616ff445f12b0f7998448d59ede65aa50c141448293325c6c",
     "name": "Zhejiang University International",
     "url": "https://iczu.zju.edu.cn/",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "gks": {
-    "hash": "38022220c8e1a9e1dc72c4fba1da237c814f5461f7e03e372c7f30b99956c28d",
+    "hash": "7fad4106e3369b812c4c93f6795e3b97581831c7a568bfa2805b6ef20a37c26d",
     "name": "Global Korea Scholarship",
     "url": "https://www.studyinkorea.go.kr/",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "kaist": {
-    "hash": "0ef16f2e2d432e528d37b1789964d965119cec16aaa03c7f7a3e2e52d10a5819",
+    "hash": "e135a0a67983a5c8cfb4fc93ca9e55f4574560edcf4253d9ccffbd0dbebd7597",
     "name": "KAIST International Graduate Admissions",
     "url": "https://admission.kaist.ac.kr/intl-graduate/",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "unist": {
     "hash": "93d3b40476a9d558bebed2d18e69c904e9ff73a4091540ee7b0fb1a508bee392",
     "name": "UNIST Admissions",
     "url": "https://admu-intl.unist.ac.kr/",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "mext": {
     "hash": "92bbbb4304a6a9c00b2b3562e3eb8f9435f6c1eb41335a76b76e22214c23c7ad",
     "name": "MEXT / Study in Japan",
     "url": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "jasso": {
     "hash": "c8a31341f305da62b8f100fc5726c21ea250e250ead7c91ed401fac797d1464f",
     "name": "JASSO Scholarship Information",
     "url": "https://www.jasso.go.jp/en/ryugaku/scholarship_j/index.html",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "erasmus": {
     "hash": "7e3538fb0a2bcfddd89c96dbdb4a4ff25a2e2fea5902d1f1e1c742c777cc4141",
     "name": "Erasmus Mundus Joint Masters",
     "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "daad": {
     "hash": "adf762e67762ea4821c7633282842a9e6840a13b19fb5d40d952b334d6c79e3f",
     "name": "DAAD Scholarship Database",
     "url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "british-council-women": {
     "hash": "9a679c7a99da2a76c6e711b4cb5f12aa22ba6298e235799b6efb4b56b5eabc28",
     "name": "British Council Women in STEM",
     "url": "https://www.britishcouncil.org/study-work-abroad/in-uk/scholarship-women-stem",
-    "last_success": "2026-11-23T10:43:35+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   },
   "astar": {
-    "hash": "deee79c1f8bd5983b15f10e773fb8284f4700a5eb128ac1d834e983d80470386",
+    "hash": "863a1f61361698d8f75d41833289318d7aea0c40f95c071d8d7ba30427d04270",
     "name": "A*STAR Graduate Academy",
     "url": "https://www.a-star.edu.sg/Scholarships",
-    "last_success": "2026-11-15T09:22:16+00:00"
+    "last_success": "2026-11-24T12:27:20+00:00"
   }
 }
