@@ -3,115 +3,115 @@
     "hash": "cc11f2212758785626a6d4cfdd96e40ccd34d2e236f213c10082ab8b5b0d6858",
     "name": "Gates Cambridge",
     "url": "https://www.gatescambridge.org/apply/",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "vingroup": {
     "hash": "c2a373228a9535ff89fe474884dd6f2f36cc256ff0effe0d6261dee4d69bb106",
     "name": "Vingroup Science and Technology Scholarship",
     "url": "https://scholarships.vinuni.edu.vn/",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "vinuni-admission": {
     "hash": "734c391980d10daa3b94d0818cfbcfa3e903840d23d8339d1e4c2546d66a0562",
     "name": "VinUni Graduate Admissions / GRE",
     "url": "https://admissions.vinuni.edu.vn/",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "ntu-scholarships": {
     "hash": "a1ba55068b0db8b957617563fde7dca9b49659ae10daed8804363c425f0cb589",
     "name": "NTU Graduate Scholarships / Vingroup",
     "url": "https://www.ntu.edu.sg/graduate-college/admissions/scholarships",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "nus-research": {
     "hash": "c6227d5759e93e56f530880e9a9d1ffded680535ab36a4f67f55d9a1a3183cc2",
     "name": "NUS Research Scholarship",
     "url": "https://nusgs.nus.edu.sg/scholarships/nus-research-scholarship",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "nus-scholarships": {
     "hash": "10d75a6cb00b8c95a5754a7d52b8d971fd5bc90cdd1b88e3a6e461eb9e1ecb8c",
     "name": "NUS Graduate Scholarships",
     "url": "https://nusgs.nus.edu.sg/scholarships/",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "smu-graduate": {
     "hash": "e01881fe18d9cfdc8370bfb084821a84ba4c964d9b865e06e954b7a444b4a98f",
     "name": "SMU Graduate Research Admissions",
     "url": "https://graduatestudies.smu.edu.sg/",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "aisg": {
     "hash": "f7e58194759133e442796e05f1fad4abeffada8070020b9068884d5380a957c5",
     "name": "AI Singapore",
     "url": "https://aisingapore.org/",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "hkpfs": {
     "hash": "3389adc51863932d001f267807cbf9c12df3d6f665c787cbbd3c1de2f0a706de",
     "name": "Hong Kong PhD Fellowship Scheme",
     "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "seu-csc": {
     "hash": "2fa31ad0d39ee038cb1da63de871aa3df77381115781a485e33fe4424eed71c0",
     "name": "CSC SEU 2027",
     "url": "https://cis.seu.edu.cn/hwenglish/2026/1021/c14043a586986/page.htm",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "seu-international": {
     "hash": "f057d32348c66ceda107fc044349adabd64326a9c9586651b190cada421ea335",
     "name": "SEU International Admissions",
     "url": "https://cis.seu.edu.cn/hwenglish/13917/list.htm",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "tsinghua": {
     "hash": "edff0a75df9996ab28a86696372a201934e7ca9c860961629d4227cba87f6f2d",
     "name": "Tsinghua Graduate Admissions",
     "url": "https://yz.tsinghua.edu.cn/en/",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "zju": {
-    "hash": "290d79e4e95a83a1defc517bfe9eea6f4ee18953d65463f158c02ba780da5b1e",
+    "hash": "cbc7a8c9a6ef97718334e4eea6bdfe631716b5c97d6f5684096cce327347b912",
     "name": "Zhejiang University International",
     "url": "https://iczu.zju.edu.cn/",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "gks": {
-    "hash": "d2755e66af871b4e01d54287ad00a9636405945dcfb98242ad17893e8ae79cef",
+    "hash": "7930d7baad923b6167cdc3870b5caa994a9e734aa331864f27428ac865ce5996",
     "name": "Global Korea Scholarship",
     "url": "https://www.studyinkorea.go.kr/",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "kaist": {
-    "hash": "541d7b3a351dca665352be50948121cfc730ec04e777aebd866650c00a67c148",
+    "hash": "a6e22961b15b27edebb6a19c3fad74b29384c3526cfe3ce2f5b675b3bb2e69c2",
     "name": "KAIST International Graduate Admissions",
     "url": "https://admission.kaist.ac.kr/intl-graduate/",
-    "last_success": "2026-11-25T11:15:42+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "unist": {
     "hash": "93d3b40476a9d558bebed2d18e69c904e9ff73a4091540ee7b0fb1a508bee392",
     "name": "UNIST Admissions",
     "url": "https://admu-intl.unist.ac.kr/",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "mext": {
     "hash": "92bbbb4304a6a9c00b2b3562e3eb8f9435f6c1eb41335a76b76e22214c23c7ad",
     "name": "MEXT / Study in Japan",
     "url": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "jasso": {
     "hash": "c8a31341f305da62b8f100fc5726c21ea250e250ead7c91ed401fac797d1464f",
     "name": "JASSO Scholarship Information",
     "url": "https://www.jasso.go.jp/en/ryugaku/scholarship_j/index.html",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "erasmus": {
     "hash": "7e3538fb0a2bcfddd89c96dbdb4a4ff25a2e2fea5902d1f1e1c742c777cc4141",
     "name": "Erasmus Mundus Joint Masters",
     "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
-    "last_success": "2026-11-27T10:49:34+00:00"
+    "last_success": "2026-11-28T10:23:14+00:00"
   },
   "daad": {
     "hash": "adf762e67762ea4821c7633282842a9e6840a13b19fb5d40d952b334d6c79e3f",
